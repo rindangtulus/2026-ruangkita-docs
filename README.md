@@ -1,4 +1,3 @@
-```markdown
 # RuangKita - Documentation Center
 
 Selamat datang di pusat dokumentasi proyek **RuangKita**. Proyek ini bertujuan untuk mendigitalisasi proses peminjaman ruangan agar lebih transparan dan efisien.
