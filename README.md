@@ -13,4 +13,4 @@ Selamat datang di pusat dokumentasi proyek **RuangKita**. Proyek ini bertujuan u
 2. [Alur Kerja Git](./git_workflow.md) - Mengikuti standar *Branching Strategy* dan *Conventional Commits*.
 
 ## 👥 Tim Pengembang
-- **Rindang Tulus** - Fullstack Developer & Project Manager
+- **Rindang Tulus** - PENS Student
